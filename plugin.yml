@@ -1,0 +1,5 @@
+name: MountingPhantomCanceler
+main: azisaba.life.mounting.phantom.canceler.Main
+version: 1.0
+api-version: 1.15
+author: "@amata1219"
